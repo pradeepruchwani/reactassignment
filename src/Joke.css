@@ -1,0 +1,20 @@
+/* Joke.css */
+.joke {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .joke-icon {
+    margin-right: 20px;
+  }
+  
+  .joke-text {
+    flex-grow: 1;
+  }
+  
+  /* Add more styles as needed */
+  
